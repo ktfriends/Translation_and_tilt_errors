@@ -1,5 +1,5 @@
 #Videos_for_Electron_Tomography_with_Translation_and_tilt_errors
-projection videos from Nano-CT
+Projection videos from Nano-CT
 
 # Projection Videos by the VAM
 I made 3 videos using a real projection image set that has translation and tilt errors.
